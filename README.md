@@ -24,13 +24,13 @@ The SQL case study aims to analyze the sales data of a small retail shop. It inv
 
 ## Files in the Repository
 
-- `product analytics.sql`: Contains the SQL queries used to answer the case study questions.
+- [`product analytics.sql`](https://github.com/okonkwoloretta/Tiny-shop-sales/blob/main/product%20analytics.sql): Contains the SQL queries used to answer the case study questions.
 - `README.md`: Provides an overview of the project and its contents.
-- `DATA IN MOTION.docx`: A document containing the results and insights obtained from the analysis.
+- [`DATA IN MOTION.docx`](https://github.com/okonkwoloretta/Tiny-shop-sales/blob/main/DATA%20IN%20MOTION.docx): A document containing the results and insights obtained from the analysis.
 
 ## Technologies Used
 
-- SQL
+- TSQL
 - Microsoft Database Management System (DBMS)
 
 
